@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "GoogleCloudApi"
 include(":app")
- 
+include(":googleCloud")
